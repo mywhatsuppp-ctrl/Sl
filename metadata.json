@@ -1,0 +1,5 @@
+{
+  "name": "KPK School Leaders Portal",
+  "description": "Official progressive web application for School Leaders of Elementary & Secondary Education Department, KP. Features offline-first data, classroom observation tools, and AI-assisted pedagogical support.",
+  "requestFramePermissions": []
+}
